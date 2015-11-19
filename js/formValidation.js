@@ -188,7 +188,7 @@ $(function(){
         else{
             msg += "Form is valid!\nSubmitting...";
             msg+= "<p>Please accept to share your Geo-location. We will update our information about this banknote/bill and will present to you with a table/map containing the information you are seeking.</p>";
-            alert("Form is valid!\nSubmitting...\nPlease share your Geolocation.");
+           // alert("Form is valid!\nSubmitting...\nPlease share your Geolocation.");
          
                  store.set("fname", formRegist.firstName.value );
                  store.set("lname", formRegist.lastName.value);
