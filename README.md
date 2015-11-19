@@ -12,12 +12,3 @@ I have used HTML5, CSS, and JavaScript libraries such as BootStrap and JQuery to
 Javascript is used to mimic and simulate the server side/database behavior. Some of the libraries are available on-line using the CDN Content Delivery Networks/Geo-location/Google-Map. 
 
 Therefore, to take advantage of this web-app and have a better users' experience, you should use a recent browser (Firefox, IE) with an internet connection, enable javascript and share your Geo-location. 
-
-
-/*       
-+-------------------------------------+
-Programmer: Ak. M'Tir
-E-mail1: akram.mtir@hotmail.com
-E-mail2: akram.mtir@gmail.com
-Date: 06-11-15
-+------------------------------------*/
